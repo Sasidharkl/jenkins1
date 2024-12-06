@@ -1,0 +1,25 @@
+Jenkins Pipeline is a set of plugins that allows users to integrate and implement continuous delivery (CD) pipelines into Jenkins: 
+What it does
+Jenkins Pipeline automates the process of getting software from version control to users and customers. It includes tools for: 
+Building software 
+Testing software 
+Deploying software 
+Merging code 
+Packaging code 
+Shipping code 
+How it works
+Jenkins Pipeline uses a domain-specific language (DSL) based on Groovy to create pipelines. The pipeline is defined in a text file called a Jenkinsfile, which can be committed to a project's source control repository. 
+Benefits
+Jenkins Pipeline offers several benefits, including: 
+Treating the CD pipeline as part of the application to be versioned and reviewed 
+Enabling early, directed feedback 
+Delivering software more quickly 
+Serving as an intersection point between development and operations teams 
+Tools
+Some tools for working with Jenkins Pipeline include: 
+Jenkins Editor Eclipse plugin: A text editor that provides features for defining pipelines, such as syntax and keyword highlighting 
+Pipeline syntax snippet generator: Provides online help for Pipeline steps and uses plugins to generate Pipeline syntax 
+Getting started
+To create a pipeline in Blue Ocean, you'll need: 
+A macOS, Linux, or Windows machine with at least 256 MB of RAM and 10 GB of drive space 
+Docker installed 
